@@ -1,6 +1,6 @@
 # Transportation Intelligence Assistant
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://your-app-name.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)]([https://your-app-name.streamlit.app](https://transport-ai-assistant-hggfxammhfv6bmw5gctn9z.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Claude API](https://img.shields.io/badge/Claude%20API-Anthropic-8A4FFF?style=for-the-badge)](https://anthropic.com)
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite)](https://sqlite.org)
