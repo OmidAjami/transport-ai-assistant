@@ -62,7 +62,7 @@ Paste a process description in plain language — Claude formats a ready-to-use 
 
 Synthetic dataset of 1,200 Canadian freight shipments across 5 carriers and 8 national routes (2024). Includes a realistic anomaly baked into Coastal Transport's March performance — used to demonstrate the anomaly detection feature.
 
-**Carriers:** Atlas Freight, Maple Express, Northern Logistics, Swift Carriers, Coastal Transport  
+**Carriers:** Atlas Freight, Maple Express, Northern Logistics, Swift Carriers, Coastal Transport
 **Routes:** Toronto–Montreal, Vancouver–Calgary, Montreal–Halifax, Halifax–Charlottetown (PEI), and more
 
 ---
@@ -71,7 +71,7 @@ Synthetic dataset of 1,200 Canadian freight shipments across 5 carriers and 8 na
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/OmidAjami/transport-ai-assistant.git
+git clone https://github.com/omidajami/transport-ai-assistant.git
 cd transport-ai-assistant
 ```
 
@@ -92,7 +92,8 @@ python3 generate_data.py
 ```
 
 ### 5. Get your Anthropic API key
-Sign up at console.anthropic.com → API Keys → Create Key. Add $5 in credits — enough for hundreds of queries.
+Sign up at [console.anthropic.com](https://console.anthropic.com) → API Keys → Create Key.
+Add $5 in credits — enough for hundreds of queries.
 
 ### 6. Run the app
 ```bash
@@ -106,9 +107,9 @@ Paste your API key in the sidebar when the app opens.
 ## Deploy free on Streamlit Cloud
 
 1. Push this repo to GitHub
-2. Go to share.streamlit.io
+2. Go to [share.streamlit.io](https://share.streamlit.io)
 3. Connect your GitHub account and select this repo
-4. Under Advanced settings → Secrets, add:
+4. Under **Advanced settings → Secrets**, add:
 ```toml
 ANTHROPIC_API_KEY = "sk-ant-your-key-here"
 ```
