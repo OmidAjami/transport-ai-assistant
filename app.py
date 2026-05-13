@@ -265,7 +265,7 @@ with st.sidebar:
     st.markdown("---")
     st.caption("1,200 shipments · 5 carriers · 8 routes · 2024")
     st.markdown("---")
-    st.markdown("**Built by:** Your Name")
+    st.markdown("**Built by:** Omid Ajami")
     st.markdown("**Stack:** Python · Streamlit · Claude API · SQLite")
 
 # ── HEADER ────────────────────────────────────────────────────────────────────
