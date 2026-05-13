@@ -270,7 +270,7 @@ with st.sidebar:
 
 # ── HEADER ────────────────────────────────────────────────────────────────────
 st.title("Transportation Intelligence Assistant")
-st.caption("Ask questions in plain English — powered by Claude AI")
+st.caption("Ask questions in plain English — Built by: Omid Ajami")
 
 tab1, tab2, tab3, tab4 = st.tabs(["KPI Dashboard", "AI Query", "Anomaly Detection", "SOP Generator"])
 
